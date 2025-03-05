@@ -8,7 +8,7 @@
           <mxGeometry x="30" y="360" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kMyG0eLLcCKG6U6ZfWgO-17" value="Operational Factors" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;horizontal=1;verticalAlign=top;gradientColor=#99CCFF;fontStyle=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="160" y="-20" width="430" height="750" as="geometry" />
+          <mxGeometry x="160" y="-40" width="430" height="770" as="geometry" />
         </mxCell>
         <mxCell id="xgfFw0ZWd7ZNSBCsqq2a-1" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;fillColor=#f9f7ed;strokeColor=#666666;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="110" width="410" height="200" as="geometry" />
@@ -73,7 +73,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kMyG0eLLcCKG6U6ZfWgO-20" value="Organisational:&amp;nbsp;&lt;b&gt;Data Governance, Risk Mitigation,&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Operational:&amp;nbsp;&lt;b&gt;Monitoring,&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Access Control, Performance&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Architectural:&amp;nbsp;&lt;b&gt;Scalability,&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Reliability&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=2;spacingTop=0;" parent="1" vertex="1">
-          <mxGeometry x="170" y="10" width="410" height="60" as="geometry" />
+          <mxGeometry x="170" width="410" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kMyG0eLLcCKG6U6ZfWgO-21" value="Data Consumer" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="1" vertex="1">
           <mxGeometry x="630" y="110" width="60" height="80" as="geometry" />
