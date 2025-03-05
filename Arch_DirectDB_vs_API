@@ -69,7 +69,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kMyG0eLLcCKG6U6ZfWgO-20" value="Organisational:&amp;nbsp;&lt;b&gt;Data Governance, Risk Mitigation,&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Operational:&amp;nbsp;&lt;b&gt;Monitoring,&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Access Control, Performance&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Architectural:&amp;nbsp;&lt;b&gt;Scalability,&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Reliability&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="kMyG0eLLcCKG6U6ZfWgO-20" value="Organisational:&amp;nbsp;&lt;b&gt;Data Governance, Risk Mitigation,&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Operational:&amp;nbsp;&lt;b&gt;Monitoring,&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Access Control, Performance&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Architectural:&amp;nbsp;&lt;b&gt;Scalability,&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Reliability&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=2;spacingTop=0;" parent="1" vertex="1">
           <mxGeometry x="170" y="10" width="410" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kMyG0eLLcCKG6U6ZfWgO-21" value="Data Consumer" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="1" vertex="1">
@@ -149,7 +149,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kMyG0eLLcCKG6U6ZfWgO-5" value="&lt;div&gt;&lt;b style=&quot;&quot;&gt;API Layer&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;GraphQL, REST (Modern), gRPC (Performant);&amp;nbsp;&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;SOAP (Legacy)&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;gradientColor=#E6E6E6;strokeColor=#666666;shadow=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
+        <mxCell id="kMyG0eLLcCKG6U6ZfWgO-5" value="&lt;div&gt;&lt;b style=&quot;&quot;&gt;API Layer&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;GraphQL, (Modern) REST, (Performance) gRPC;&amp;nbsp;&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;(Legacy) SOAP&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;gradientColor=#E6E6E6;strokeColor=#666666;shadow=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="257" y="224" width="176" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kMyG0eLLcCKG6U6ZfWgO-39" value="" style="endArrow=classic;html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;" parent="1" source="kMyG0eLLcCKG6U6ZfWgO-1" target="kMyG0eLLcCKG6U6ZfWgO-4" edge="1">
