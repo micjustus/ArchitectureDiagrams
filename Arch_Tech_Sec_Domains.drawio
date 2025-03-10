@@ -13,10 +13,10 @@
         <mxCell id="jpLWjT7uDQviff_Z-IW5-16" value="Cloud &amp;amp; Infrastructure Security" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=0.5;verticalAlign=top;fontStyle=1;arcSize=15;" vertex="1" parent="1">
           <mxGeometry x="180.37" y="230" width="349.26" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="jpLWjT7uDQviff_Z-IW5-2" value="Software &amp;amp; Application Security" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#808080;strokeWidth=0.5;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-2" value="Hardware Security" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#808080;strokeWidth=0.5;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="200" y="270" width="310" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="jpLWjT7uDQviff_Z-IW5-20" value="Hardware Security" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;strokeWidth=0.5;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-20" value="Software &amp;amp; Application Security" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;strokeWidth=0.5;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="240" y="312.33000000000004" width="220" height="109.45" as="geometry" />
         </mxCell>
         <mxCell id="jpLWjT7uDQviff_Z-IW5-3" value="Data Security" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=default;strokeWidth=0.1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
@@ -28,13 +28,13 @@
         <mxCell id="jpLWjT7uDQviff_Z-IW5-15" value="API Security" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=0.5;verticalAlign=top;fontStyle=1;arcSize=15;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="260" y="480" width="180" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="jpLWjT7uDQviff_Z-IW5-21" value="Physical devices, Secure Boot, TPM, HSM" style="text;whiteSpace=wrap;html=1;fontStyle=2;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-21" value=" Secure Coding, Vulnerability Management, Secure Design" style="text;whiteSpace=wrap;html=1;fontStyle=2;verticalAlign=middle;fontSize=11;fontColor=#4D4D4D;" vertex="1" parent="1">
           <mxGeometry x="601" y="320" width="319" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jpLWjT7uDQviff_Z-IW5-9" value="Device &amp;amp; Endpoint Security" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#A153A0;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0,0.5,0],[0.125,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.875,0.25,0],[1,0.5,0],[0.875,0.75,0],[0.75,1,0],[0.5,1,0],[0.125,0.75,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.design.blank_device;resIcon=mxgraph.cisco_safe.design.mobile_device;" vertex="1" parent="1">
           <mxGeometry x="310" y="520" width="80" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="jpLWjT7uDQviff_Z-IW5-23" value="Physical protection, Data Centre Security" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;fontStyle=2" vertex="1" parent="1">
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-23" value="Physical Access Controls, Data Centre Security, Environmental Safeguards" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;fontStyle=2;fontSize=11;fontColor=#4D4D4D;" vertex="1" parent="1">
           <mxGeometry x="601" y="150" width="319" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jpLWjT7uDQviff_Z-IW5-26" value="" style="endArrow=oval;startArrow=oval;html=1;rounded=0;exitX=0.947;exitY=0.037;exitDx=0;exitDy=0;exitPerimeter=0;startFill=1;endFill=1;dashed=1;strokeColor=#808080;strokeWidth=0.5;" edge="1" parent="1" source="jpLWjT7uDQviff_Z-IW5-18" target="jpLWjT7uDQviff_Z-IW5-23">
@@ -43,7 +43,7 @@
             <mxPoint x="700" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jpLWjT7uDQviff_Z-IW5-27" value="Servers, Virtual Machines, Containers, IaC" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;fontStyle=2" vertex="1" parent="1">
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-27" value="Servers, Virtual Machines, Containers, Infrastructure-as-Code (IaC)" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;fontStyle=2;fontSize=11;fontColor=#4D4D4D;" vertex="1" parent="1">
           <mxGeometry x="601" y="235" width="319" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jpLWjT7uDQviff_Z-IW5-28" value="" style="endArrow=oval;startArrow=oval;html=1;rounded=0;startFill=1;endFill=1;dashed=1;strokeColor=#808080;strokeWidth=0.5;exitX=0.951;exitY=0.048;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="jpLWjT7uDQviff_Z-IW5-27" source="jpLWjT7uDQviff_Z-IW5-16">
@@ -52,7 +52,7 @@
             <mxPoint x="724" y="444" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jpLWjT7uDQviff_Z-IW5-29" value="Firewalls, IDS/IPS, VPN, Zero Trust" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;fontStyle=2" vertex="1" parent="1">
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-29" value="Firewalls, IDS/IPS, VPNs, Zero Trust Networks" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;fontStyle=2;fontSize=11;fontColor=#4D4D4D;" vertex="1" parent="1">
           <mxGeometry x="601" y="192.22" width="319" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jpLWjT7uDQviff_Z-IW5-30" value="" style="endArrow=oval;startArrow=oval;html=1;rounded=0;startFill=1;endFill=1;dashed=1;strokeColor=#808080;strokeWidth=0.5;exitX=0.946;exitY=0.037;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="jpLWjT7uDQviff_Z-IW5-29" source="jpLWjT7uDQviff_Z-IW5-17">
@@ -61,7 +61,7 @@
             <mxPoint x="724" y="332.21999999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jpLWjT7uDQviff_Z-IW5-31" value="Secure coding, vulnerability management" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;fontStyle=2" vertex="1" parent="1">
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-31" value="Physical devices, TPM, HSM, Secure Boot, Hardware Integrity" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;fontStyle=2;fontSize=11;fontColor=#4D4D4D;" vertex="1" parent="1">
           <mxGeometry x="601" y="280" width="319" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jpLWjT7uDQviff_Z-IW5-32" value="" style="endArrow=oval;startArrow=oval;html=1;rounded=0;startFill=1;endFill=1;dashed=1;strokeColor=#808080;strokeWidth=0.5;exitX=0.979;exitY=0.069;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="jpLWjT7uDQviff_Z-IW5-31" source="jpLWjT7uDQviff_Z-IW5-2">
@@ -70,7 +70,7 @@
             <mxPoint x="724" y="486.22" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jpLWjT7uDQviff_Z-IW5-33" value="Dependency Security, SBOM, Integrity Checks" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;fontStyle=2" vertex="1" parent="1">
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-33" value="Dependency Security, SBOM, Integrity Checks, Third-party Libraries" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;fontStyle=2;fontSize=11;fontColor=#4D4D4D;" vertex="1" parent="1">
           <mxGeometry x="601" y="435" width="319" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jpLWjT7uDQviff_Z-IW5-34" value="" style="endArrow=oval;startArrow=oval;html=1;rounded=0;exitX=0.963;exitY=0.057;exitDx=0;exitDy=0;exitPerimeter=0;startFill=1;endFill=1;dashed=1;strokeColor=#808080;strokeWidth=0.5;" edge="1" parent="1" target="jpLWjT7uDQviff_Z-IW5-33" source="jpLWjT7uDQviff_Z-IW5-4">
@@ -85,7 +85,7 @@
             <mxPoint x="611" y="308" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jpLWjT7uDQviff_Z-IW5-36" value="Encryption, DLP, Data Classification" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;fontStyle=2" vertex="1" parent="1">
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-36" value="Encryption at Rest/Transit, DLP, Data Classification &amp;amp; Governance" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;fontStyle=2;fontSize=11;fontColor=#4D4D4D;" vertex="1" parent="1">
           <mxGeometry x="601" y="362.04" width="319" height="31.85" as="geometry" />
         </mxCell>
         <mxCell id="jpLWjT7uDQviff_Z-IW5-37" value="" style="endArrow=oval;startArrow=oval;html=1;rounded=0;startFill=1;endFill=1;dashed=1;strokeColor=#808080;strokeWidth=0.5;" edge="1" parent="1" source="jpLWjT7uDQviff_Z-IW5-3" target="jpLWjT7uDQviff_Z-IW5-36">
@@ -94,7 +94,7 @@
             <mxPoint x="611" y="345" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jpLWjT7uDQviff_Z-IW5-38" value="Securing external interactions, authentication, throttling" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-38" value=" Authentication, Authorisation, Input Validation, Rate Limiting, API Gateways" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=11;fontStyle=2;fontColor=#4D4D4D;" vertex="1" parent="1">
           <mxGeometry x="601" y="480" width="319" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jpLWjT7uDQviff_Z-IW5-39" value="" style="endArrow=oval;startArrow=oval;html=1;rounded=0;exitX=0.962;exitY=0.088;exitDx=0;exitDy=0;exitPerimeter=0;startFill=1;endFill=1;dashed=1;strokeColor=#808080;strokeWidth=0.5;" edge="1" parent="1" source="jpLWjT7uDQviff_Z-IW5-15" target="jpLWjT7uDQviff_Z-IW5-38">
@@ -103,7 +103,7 @@
             <mxPoint x="611" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jpLWjT7uDQviff_Z-IW5-40" value="EDR, MDM, Device Encryption, Secure endpoints" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;fontStyle=2" vertex="1" parent="1">
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-40" value="Endpoint Detection &amp;amp; Response (EDR), Mobile Device Management (MDM), Device Encryption, Secure Endpoints" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;fontStyle=2;fontSize=11;fontColor=#4D4D4D;" vertex="1" parent="1">
           <mxGeometry x="601" y="542.5" width="319" height="25" as="geometry" />
         </mxCell>
         <mxCell id="jpLWjT7uDQviff_Z-IW5-41" value="" style="endArrow=oval;startArrow=oval;html=1;rounded=0;startFill=1;endFill=1;dashed=1;strokeColor=#808080;strokeWidth=0.5;" edge="1" parent="1" source="jpLWjT7uDQviff_Z-IW5-9" target="jpLWjT7uDQviff_Z-IW5-40">
@@ -111,6 +111,9 @@
             <mxPoint x="443" y="503" as="sourcePoint" />
             <mxPoint x="611" y="502" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-42" value="&lt;i&gt;By Michael Justus&lt;/i&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontColor=#999999;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="150" y="630" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
