@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.1.0">
   <diagram name="Page-1" id="BFAWXYweHeVmvFR0cgTK">
-    <mxGraphModel dx="1042" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1226" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,7 +16,7 @@
         <mxCell id="jpLWjT7uDQviff_Z-IW5-2" value="Hardware Security" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#808080;strokeWidth=0.5;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="200" y="270" width="310" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="jpLWjT7uDQviff_Z-IW5-20" value="Software &amp;amp; Application Security" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;strokeWidth=0.5;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-20" value="Software &amp;amp; Application Security" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#FFCE9F;strokeWidth=0.5;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="240" y="312.33000000000004" width="220" height="109.45" as="geometry" />
         </mxCell>
         <mxCell id="jpLWjT7uDQviff_Z-IW5-3" value="Data Security" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=default;strokeWidth=0.1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
@@ -113,7 +113,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jpLWjT7uDQviff_Z-IW5-42" value="&lt;i&gt;By Michael Justus&lt;/i&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontColor=#999999;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="150" y="630" width="200" height="30" as="geometry" />
+          <mxGeometry x="150" y="660" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-44" value="&lt;b&gt;Figure: Technical Security Domains&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="150" y="630" width="420" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
