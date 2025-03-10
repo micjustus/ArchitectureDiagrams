@@ -1,9 +1,63 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="24.7.17">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.1.0">
   <diagram name="Page-1" id="BFAWXYweHeVmvFR0cgTK">
-    <mxGraphModel>
+    <mxGraphModel dx="1042" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-18" value="Environment &amp;amp; Physical" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;strokeWidth=0.5;verticalAlign=top;fontStyle=1;arcSize=15;" vertex="1" parent="1">
+          <mxGeometry x="290" y="250" width="270" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-17" value="Network" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;strokeWidth=0.5;verticalAlign=top;fontStyle=1;arcSize=15;" vertex="1" parent="1">
+          <mxGeometry x="300" y="280" width="250" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-16" value="Cloud &amp;amp; Infrastructure" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=0.5;verticalAlign=top;fontStyle=1;arcSize=15;" vertex="1" parent="1">
+          <mxGeometry x="310" y="310" width="230" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-15" value="Hardware" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=0.5;verticalAlign=top;fontStyle=1;arcSize=15;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="320" y="340" width="210" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="332" y="370" width="186" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-2" value="System" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#808080;strokeWidth=0.5;verticalAlign=top;fontStyle=1" vertex="1" parent="jpLWjT7uDQviff_Z-IW5-1">
+          <mxGeometry width="186" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-3" value="Data" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=default;strokeWidth=0.1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="jpLWjT7uDQviff_Z-IW5-1">
+          <mxGeometry x="16" y="30" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-4" value="Supply Chain" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=default;strokeWidth=0.1;" vertex="1" parent="jpLWjT7uDQviff_Z-IW5-1">
+          <mxGeometry x="106" y="30" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-5" value="API Endpoints" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#808080;strokeWidth=0.5;verticalAlign=middle;fontStyle=1;arcSize=15;" vertex="1" parent="1">
+          <mxGeometry x="330" y="560" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-6" value="System &lt;i&gt;n...&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#808080;strokeWidth=0.5;verticalAlign=middle;fontStyle=1;arcSize=15;" vertex="1" parent="1">
+          <mxGeometry x="330" y="640" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;curved=0;" edge="1" parent="1" source="jpLWjT7uDQviff_Z-IW5-6" target="jpLWjT7uDQviff_Z-IW5-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="660" as="sourcePoint" />
+            <mxPoint x="640" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-8" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;curved=0;" edge="1" parent="1" source="jpLWjT7uDQviff_Z-IW5-5" target="jpLWjT7uDQviff_Z-IW5-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="435" y="610" as="sourcePoint" />
+            <mxPoint x="435" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-9" value="Devices &amp;amp; Endpoints" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#A153A0;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0,0.5,0],[0.125,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.875,0.25,0],[1,0.5,0],[0.875,0.75,0],[0.75,1,0],[0.5,1,0],[0.125,0.75,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.design.blank_device;resIcon=mxgraph.cisco_safe.design.mobile_device;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="650" y="402.5" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-10" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;curved=0;" edge="1" parent="1" source="jpLWjT7uDQviff_Z-IW5-9" target="jpLWjT7uDQviff_Z-IW5-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="550" as="sourcePoint" />
+            <mxPoint x="435" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="615" y="425" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
