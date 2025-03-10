@@ -1,9 +1,36 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="YcwTByuwpeZoNE3Q0F4F">
-    <mxGraphModel>
+    <mxGraphModel dx="595" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7HwV1jACvURvjeLzAizq-1" value="Infrastructure" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="70" y="100" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="7HwV1jACvURvjeLzAizq-3" value="Devices" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="560" y="100" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="7HwV1jACvURvjeLzAizq-7" value="Applications" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="320" y="230" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="7HwV1jACvURvjeLzAizq-8" value="Libraries" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="320" y="100" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="7HwV1jACvURvjeLzAizq-9" value="Networking" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="560" y="230" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="7HwV1jACvURvjeLzAizq-12" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="194" y="420" width="186" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="7HwV1jACvURvjeLzAizq-5" value="System" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#808080;strokeWidth=0.5;verticalAlign=top;fontStyle=1" vertex="1" parent="7HwV1jACvURvjeLzAizq-12">
+          <mxGeometry width="186" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="7HwV1jACvURvjeLzAizq-4" value="Cloud Computing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=default;strokeWidth=0.1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="7HwV1jACvURvjeLzAizq-12">
+          <mxGeometry x="16" y="30" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7HwV1jACvURvjeLzAizq-11" value="Cloud Computing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=default;strokeWidth=0.1;" vertex="1" parent="7HwV1jACvURvjeLzAizq-12">
+          <mxGeometry x="106" y="30" width="70" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
