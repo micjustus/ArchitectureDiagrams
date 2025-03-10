@@ -4,58 +4,112 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="jpLWjT7uDQviff_Z-IW5-18" value="Environment &amp;amp; Physical" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;strokeWidth=0.5;verticalAlign=top;fontStyle=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="290" y="250" width="270" height="270" as="geometry" />
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-18" value="Environment &amp;amp; Physical Security" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;strokeWidth=0.5;verticalAlign=top;fontStyle=1;arcSize=15;" vertex="1" parent="1">
+          <mxGeometry x="150" y="150" width="410" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="jpLWjT7uDQviff_Z-IW5-17" value="Network" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;strokeWidth=0.5;verticalAlign=top;fontStyle=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="300" y="280" width="250" height="230" as="geometry" />
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-17" value="Network Security" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;strokeWidth=0.5;verticalAlign=top;fontStyle=1;arcSize=15;" vertex="1" parent="1">
+          <mxGeometry x="165.19" y="192.22" width="379.63" height="437.78" as="geometry" />
         </mxCell>
-        <mxCell id="jpLWjT7uDQviff_Z-IW5-16" value="Cloud &amp;amp; Infrastructure" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=0.5;verticalAlign=top;fontStyle=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="310" y="310" width="230" height="190" as="geometry" />
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-16" value="Cloud &amp;amp; Infrastructure Security" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=0.5;verticalAlign=top;fontStyle=1;arcSize=15;" vertex="1" parent="1">
+          <mxGeometry x="180.37" y="230" width="349.26" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="jpLWjT7uDQviff_Z-IW5-15" value="Hardware" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=0.5;verticalAlign=top;fontStyle=1;arcSize=15;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="320" y="340" width="210" height="150" as="geometry" />
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-2" value="Software &amp;amp; Application Security" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#808080;strokeWidth=0.5;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="200" y="270" width="310" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="jpLWjT7uDQviff_Z-IW5-1" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="332" y="370" width="186" height="110" as="geometry" />
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-20" value="Hardware Security" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;strokeWidth=0.5;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="240" y="312.33000000000004" width="220" height="109.45" as="geometry" />
         </mxCell>
-        <mxCell id="jpLWjT7uDQviff_Z-IW5-2" value="System" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#808080;strokeWidth=0.5;verticalAlign=top;fontStyle=1" vertex="1" parent="jpLWjT7uDQviff_Z-IW5-1">
-          <mxGeometry width="186" height="110" as="geometry" />
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-3" value="Data Security" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=default;strokeWidth=0.1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="280" y="347.78" width="140" height="60.37" as="geometry" />
         </mxCell>
-        <mxCell id="jpLWjT7uDQviff_Z-IW5-3" value="Data" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=default;strokeWidth=0.1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="jpLWjT7uDQviff_Z-IW5-1">
-          <mxGeometry x="16" y="30" width="70" height="70" as="geometry" />
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-4" value="Supply Chain Security" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=default;strokeWidth=0.1;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="240" y="440" width="220" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="jpLWjT7uDQviff_Z-IW5-4" value="Supply Chain" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=default;strokeWidth=0.1;" vertex="1" parent="jpLWjT7uDQviff_Z-IW5-1">
-          <mxGeometry x="106" y="30" width="70" height="70" as="geometry" />
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-15" value="API Security" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=0.5;verticalAlign=top;fontStyle=1;arcSize=15;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="260" y="480" width="180" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="jpLWjT7uDQviff_Z-IW5-5" value="API Endpoints" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#808080;strokeWidth=0.5;verticalAlign=middle;fontStyle=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="330" y="560" width="190" height="40" as="geometry" />
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-21" value="Physical devices, Secure Boot, TPM, HSM" style="text;whiteSpace=wrap;html=1;fontStyle=2;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="601" y="320" width="319" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jpLWjT7uDQviff_Z-IW5-6" value="System &lt;i&gt;n...&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#808080;strokeWidth=0.5;verticalAlign=middle;fontStyle=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="330" y="640" width="190" height="40" as="geometry" />
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-9" value="Device &amp;amp; Endpoint Security" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#A153A0;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0,0.5,0],[0.125,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.875,0.25,0],[1,0.5,0],[0.875,0.75,0],[0.75,1,0],[0.5,1,0],[0.125,0.75,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.design.blank_device;resIcon=mxgraph.cisco_safe.design.mobile_device;" vertex="1" parent="1">
+          <mxGeometry x="310" y="520" width="80" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="jpLWjT7uDQviff_Z-IW5-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;curved=0;" edge="1" parent="1" source="jpLWjT7uDQviff_Z-IW5-6" target="jpLWjT7uDQviff_Z-IW5-5">
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-23" value="Physical protection, Data Centre Security" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="601" y="150" width="319" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-26" value="" style="endArrow=oval;startArrow=oval;html=1;rounded=0;exitX=0.947;exitY=0.037;exitDx=0;exitDy=0;exitPerimeter=0;startFill=1;endFill=1;dashed=1;strokeColor=#808080;strokeWidth=0.5;" edge="1" parent="1" source="jpLWjT7uDQviff_Z-IW5-18" target="jpLWjT7uDQviff_Z-IW5-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="590" y="660" as="sourcePoint" />
-            <mxPoint x="640" y="610" as="targetPoint" />
+            <mxPoint x="650" y="320" as="sourcePoint" />
+            <mxPoint x="700" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jpLWjT7uDQviff_Z-IW5-8" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;curved=0;" edge="1" parent="1" source="jpLWjT7uDQviff_Z-IW5-5" target="jpLWjT7uDQviff_Z-IW5-2">
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-27" value="Servers, Virtual Machines, Containers, IaC" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="601" y="235" width="319" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-28" value="" style="endArrow=oval;startArrow=oval;html=1;rounded=0;startFill=1;endFill=1;dashed=1;strokeColor=#808080;strokeWidth=0.5;exitX=0.951;exitY=0.048;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="jpLWjT7uDQviff_Z-IW5-27" source="jpLWjT7uDQviff_Z-IW5-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="435" y="610" as="sourcePoint" />
-            <mxPoint x="435" y="570" as="targetPoint" />
+            <mxPoint x="562" y="341" as="sourcePoint" />
+            <mxPoint x="724" y="444" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jpLWjT7uDQviff_Z-IW5-9" value="Devices &amp;amp; Endpoints" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#A153A0;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0,0.5,0],[0.125,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.875,0.25,0],[1,0.5,0],[0.875,0.75,0],[0.75,1,0],[0.5,1,0],[0.125,0.75,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.design.blank_device;resIcon=mxgraph.cisco_safe.design.mobile_device;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="650" y="402.5" width="50" height="45" as="geometry" />
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-29" value="Firewalls, IDS/IPS, VPN, Zero Trust" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="601" y="192.22" width="319" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jpLWjT7uDQviff_Z-IW5-10" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;curved=0;" edge="1" parent="1" source="jpLWjT7uDQviff_Z-IW5-9" target="jpLWjT7uDQviff_Z-IW5-2">
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-30" value="" style="endArrow=oval;startArrow=oval;html=1;rounded=0;startFill=1;endFill=1;dashed=1;strokeColor=#808080;strokeWidth=0.5;exitX=0.946;exitY=0.037;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="jpLWjT7uDQviff_Z-IW5-29" source="jpLWjT7uDQviff_Z-IW5-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="550" as="sourcePoint" />
-            <mxPoint x="435" y="490" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="615" y="425" />
-            </Array>
+            <mxPoint x="562" y="229.21999999999997" as="sourcePoint" />
+            <mxPoint x="724" y="332.21999999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-31" value="Secure coding, vulnerability management" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="601" y="280" width="319" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-32" value="" style="endArrow=oval;startArrow=oval;html=1;rounded=0;startFill=1;endFill=1;dashed=1;strokeColor=#808080;strokeWidth=0.5;exitX=0.979;exitY=0.069;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="jpLWjT7uDQviff_Z-IW5-31" source="jpLWjT7uDQviff_Z-IW5-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="562" y="383.22" as="sourcePoint" />
+            <mxPoint x="724" y="486.22" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-33" value="Dependency Security, SBOM, Integrity Checks" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="601" y="435" width="319" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-34" value="" style="endArrow=oval;startArrow=oval;html=1;rounded=0;exitX=0.963;exitY=0.057;exitDx=0;exitDy=0;exitPerimeter=0;startFill=1;endFill=1;dashed=1;strokeColor=#808080;strokeWidth=0.5;" edge="1" parent="1" target="jpLWjT7uDQviff_Z-IW5-33" source="jpLWjT7uDQviff_Z-IW5-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="562" y="428.78" as="sourcePoint" />
+            <mxPoint x="724" y="531.78" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-35" value="" style="endArrow=oval;startArrow=oval;html=1;rounded=0;startFill=1;endFill=1;dashed=1;strokeColor=#808080;strokeWidth=0.5;exitX=0.991;exitY=0.198;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="jpLWjT7uDQviff_Z-IW5-20" target="jpLWjT7uDQviff_Z-IW5-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="516" y="310" as="sourcePoint" />
+            <mxPoint x="611" y="308" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-36" value="Encryption, DLP, Data Classification" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="601" y="362.04" width="319" height="31.85" as="geometry" />
+        </mxCell>
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-37" value="" style="endArrow=oval;startArrow=oval;html=1;rounded=0;startFill=1;endFill=1;dashed=1;strokeColor=#808080;strokeWidth=0.5;" edge="1" parent="1" source="jpLWjT7uDQviff_Z-IW5-3" target="jpLWjT7uDQviff_Z-IW5-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="468" y="344" as="sourcePoint" />
+            <mxPoint x="611" y="345" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-38" value="Securing external interactions, authentication, throttling" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="601" y="480" width="319" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-39" value="" style="endArrow=oval;startArrow=oval;html=1;rounded=0;exitX=0.962;exitY=0.088;exitDx=0;exitDy=0;exitPerimeter=0;startFill=1;endFill=1;dashed=1;strokeColor=#808080;strokeWidth=0.5;" edge="1" parent="1" source="jpLWjT7uDQviff_Z-IW5-15" target="jpLWjT7uDQviff_Z-IW5-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="462" y="461" as="sourcePoint" />
+            <mxPoint x="611" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-40" value="EDR, MDM, Device Encryption, Secure endpoints" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="601" y="542.5" width="319" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="jpLWjT7uDQviff_Z-IW5-41" value="" style="endArrow=oval;startArrow=oval;html=1;rounded=0;startFill=1;endFill=1;dashed=1;strokeColor=#808080;strokeWidth=0.5;" edge="1" parent="1" source="jpLWjT7uDQviff_Z-IW5-9" target="jpLWjT7uDQviff_Z-IW5-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="443" y="503" as="sourcePoint" />
+            <mxPoint x="611" y="502" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
